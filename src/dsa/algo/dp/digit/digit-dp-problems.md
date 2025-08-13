@@ -26,3 +26,4 @@ date modified: 2023-10-04
 | 1088 | [Confusing Number II](https://leetcode.com/problems/confusing-number-ii/) |  | Math, Backtracking | Hard |
 | 1067 | [Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/) |  | Math, Dynamic Programming | Hard |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [[LeetCode XXXX]] | Hash Table, Math, Counting | Easy |
+| 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/) | | math, DP, string | Hard |
